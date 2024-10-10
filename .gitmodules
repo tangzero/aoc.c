@@ -1,0 +1,3 @@
+[submodule "Cello"]
+	path = Cello
+	url = https://github.com/orangeduck/Cello.git
